@@ -130,4 +130,3 @@ const init = function () {
 };
 init();
 console.log('Rocky');
-console.log(Rocky);
